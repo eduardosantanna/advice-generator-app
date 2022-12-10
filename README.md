@@ -1,46 +1,43 @@
-# .
+# Frontend Mentor - Aplicativo gerador de conselhos
 
-This template should help get you started developing with Vue 3 in Vite.
+Essa é uma solução para o [desafio do aplicativo gerador de conselhos que está disponível no site Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-## Recommended IDE Setup
+## Índice
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Visão geral](#visão-geral)
+   - [O desafio](#o-desafio)
+   - [Captura de tela](#captura-de-tela)
+   - [Links](#links)
+- [Meu processo](#meu-processo)
+   - [Construído com](#construído-com)
+- [Autor](#autor)
+## Visão geral
 
-## Type Support for `.vue` Imports in TS
+### O desafio
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+Os usuários devem ser capazes de:
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- Ver o layout ideal para o aplicativo, independente do tamanho da tela do dispositivo
+- Veja os estados de foco para todos os elementos interativos na página
+- Gere um novo conselho clicando no ícone do dado
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+### Captura de tela
 
-## Customize configuration
+![](./captura de tela.jpg)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Links
 
-## Project Setup
+- URL da solução: [https://github.com/eduardosantanna/advice-generator-app](https://github.com/eduardosantanna/advice-generator-app)
+- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
 
-```sh
-npm install
-```
+## Meu processo
 
-### Compile and Hot-Reload for Development
+### Construído com
 
-```sh
-npm run dev
-```
+- Conceitos de mobile first
+- Flexbox
+- [Vuejs](https://vuejs.org) - Biblioteca JS
 
-### Type-Check, Compile and Minify for Production
+## Autor
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Frontend Mentor - [@LuisZEdu](https://www.frontendmentor.io/profile/LuisZEdu)
