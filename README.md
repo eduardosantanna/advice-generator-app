@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [https://github.com/eduardosantanna/advice-generator-app](https://github.com/eduardosantanna/advice-generator-app)
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [https://vocal-choux-2622e0.netlify.app/](https://vocal-choux-2622e0.netlify.app)
 
 ## Meu processo
 
